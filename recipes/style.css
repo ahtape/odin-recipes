@@ -1,0 +1,23 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#image {
+    height: 300px;
+}
+
+#source {
+    font-style: italic;
+}
+
+#link {
+    font-size: 24px;
+    text-decoration: none;
+    color: green;
+}
